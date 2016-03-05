@@ -12,4 +12,8 @@ RI: selection sort
 Leetcode 2: pointer operation
 RI: Arbitrary-precision addition
 
+leetcode 3: String operation
+RI: convert char to ASCII
+
+
 
