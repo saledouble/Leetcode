@@ -18,6 +18,9 @@ RI: convert char to ASCII
 leetcode 4: binary search & find the k-th smallest number
 RI: recursion
 
+Leetcode 5: DP
+
+Leetcode 6: mathematics
 
 
 
