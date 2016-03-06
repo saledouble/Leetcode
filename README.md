@@ -22,5 +22,6 @@ Leetcode 5: DP
 
 Leetcode 6: mathematics
 
+leetcode 7 & leetcode : take care boundary
 
 
