@@ -15,5 +15,9 @@ RI: Arbitrary-precision addition
 leetcode 3: String operation
 RI: convert char to ASCII
 
+leetcode 4: binary search & find the k-th smallest number
+RI: recursion
+
+
 
 
