@@ -24,4 +24,4 @@ Leetcode 6: mathematics
 
 leetcode 7 & leetcode : take care boundary
 
-
+leetcode 8 : it is hard to reduce the duplicate elements
